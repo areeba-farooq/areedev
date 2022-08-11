@@ -6,15 +6,22 @@
 
 - 🔭 I’m currently working on an [FriendzOo app](https://github.com/SmartAree/friendzo_app)
 
-- 🌱 I’m currently learning **Bloc and sqfLite.**
+- 🌱 I’m currently learning **SQfLite and Agora SDK.**
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
 
-- 🤝 I’m looking for help with **Bloc pattern and google maps**
+- 🤝 I’m looking for help with **Agora SDK**
+
+- 🤝 Mentor at **Flutter Queen**
+         - [Instagram](https://www.instagram.com/_flutter.queen/)
+         - [Facebook](https://www.facebook.com/profile.php?id=100082330156711)
+         - [Medium](https://medium.com/@flutterqueen)
+         - [Github](https://github.com/Flutter-Queen)
+         - [Twitter](https://twitter.com/Queen33322?t=7Zsa-nTHDQhdkRya_kz-7g&s=09)
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/developerAree](https://www.behance.net/developerAree)
 
-- 📝 I regularly write articles on [https://medium.com/@flutterqueen](https://medium.com/@flutterqueen)
+- 📝 I regularly write articles on [https://medium.com/@flutterqueen](https://medium.com/@flutterqueen) and [DEV](https://dev.to/areedev)
 
 - 💬 Ask me about **any flutter related questions**
 
