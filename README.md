@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Areeba Farooq</h1>
-<h3 align="center">Software Engineer| Flutter Developer| UI/UX Designer.</h3>
+<h3 align="center">GDSC Core Team | Lead Flutter Dev | UI/UX Designer | Software Engineer to be</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smartaree" alt="smartaree" /></a> </p>
 
