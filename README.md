@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Areeba Farooq</h1>
 <h3 align="center">GDSC Core Team | Lead Flutter Dev | UI/UX Designer | Software Engineer to be</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smartaree" alt="smartaree" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=areedev" alt="smartaree" /></a> </p>
 
 
 - 🔭 I’m currently working on an [FriendzOo app](https://github.com/SmartAree/friendzo_app)
